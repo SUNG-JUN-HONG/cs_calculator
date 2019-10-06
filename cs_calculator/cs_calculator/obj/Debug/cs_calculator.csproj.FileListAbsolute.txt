@@ -1,0 +1,10 @@
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\bin\Debug\cs_calculator.exe.config
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\bin\Debug\cs_calculator.exe
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\bin\Debug\cs_calculator.pdb
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\obj\Debug\cs_calculator.csprojAssemblyReference.cache
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\obj\Debug\cs_calculator.Form1.resources
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\obj\Debug\cs_calculator.Properties.Resources.resources
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\obj\Debug\cs_calculator.csproj.GenerateResource.cache
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\obj\Debug\cs_calculator.csproj.CoreCompileInputs.cache
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\obj\Debug\cs_calculator.exe
+C:\Users\SUNGJUN HONG\source\repos\cs_calculator\cs_calculator\obj\Debug\cs_calculator.pdb
